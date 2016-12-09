@@ -13,5 +13,5 @@ You can easily load images from an internet URL, drawable, or file. And there ar
 [Download Apk](https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk)
  
 ## Link
-[Detailed Information](https://github.com/daimajia/AndroidImageSlider)
+[Detailed Information](https://github.com/daimajia/AndroidImageSlider) 
 
